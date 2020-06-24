@@ -1,2 +1,2 @@
-# Learn-C-Programming---Fundamentals-of-C
-Learn C Programming - Fundamentals of C, published by Packt
+# Learn C Programming
+Learn C Programming, published by Packt
